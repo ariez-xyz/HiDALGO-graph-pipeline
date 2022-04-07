@@ -1,0 +1,11 @@
+SelectMetisGraph {
+    Path ~/HiDALGO-pipeline/data/fb.metis
+    Offset 1
+}
+
+CutNeighborhoods {
+    threads 4
+}
+
+
+
